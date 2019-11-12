@@ -1,0 +1,11 @@
+git init for initializing the repository
+git add . for adding to repository
+git commit -m "message of the commit"
+git push
+
+git branch to see the current branch you are at
+git branch branchName to create a new branch 
+git checkout branchName to switch to a certain branch 
+git checkout -b branchName  create and change to new branch 
+git pull
+
